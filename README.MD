@@ -1,3 +1,9 @@
+# Introduction
+This is a project based on the MediaEval 2021 task _Emotional Mario: A Games Analytics Challenge_. In this project, we built a model to identify key game events in the game _Super Mario Bros_. Such key events include the end of a level, a power-up or extra life for Mario, or Mario’s death. 
+
+The link to the detailed prompt is as follows: 
+https://multimediaeval.github.io/editions/2021/tasks/emotionalmario/
+
 # [Report](https://github.com/iankhor2001/emotional_mario_2021_multimedia/blob/master/Multimedia%20Final%20Report%20-%20signed.pdf)
 Please feel free to read our [report](https://github.com/iankhor2001/emotional_mario_2021_multimedia/blob/master/Multimedia%20Final%20Report%20-%20signed.pdf) for more details of the project.
 
